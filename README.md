@@ -13,46 +13,51 @@
 - <strong>Tokenomics:</strong> Where users can earn Freebling tokens (<strong>FBT</strong>) by completing reward tasks. These tokens can be used to access premium features, for staking, or one of the many other usecase.
 - <strong>Aims:</strong> By partnering with Freebling, businesses can offer exclusive rewards and access to their tokens, while also reaching a wider audience of potential users.
 
-🌟 Why FreeBling?
-Unlike typical crypto reward apps, FreeBling stands out by offering:
-	🎁 Exclusive Airdrops & Giveaways
-	📝 Diverse Reward Tasks: Social media, referrals, community participation
-	🌐 Access to Emerging Tokens & Projects
+<strong>🌟 Why FreeBling?</strong>
 
-📈 Marketing Strategy
-Our growth approach includes:
-	Influencer partnerships
-	Targeted social media ads
-	SEO and community marketing
-	Token incentives for user-driven virality
+Unlike typical crypto reward apps, FreeBling stands out by offering
+- <strong>🎁</strong> Exclusive Airdrops & Giveaways.
+- <strong>📝</strong> Diverse Reward Tasks: Social media, referrals, community participation.
+- <strong>🌐</strong> Access to Emerging Tokens & Projects.
 
-💸 Investment Use
-Incoming funding is allocated to:
-	Hiring a reliable lead blockchain developer / CTO
-	Building scalable smart contracts and staking features
-	Expanding functionality and UI responsiveness
-	Launching broader marketing campaigns
+<strong>📈 Marketing Strategy</strong>
 
-🪙 Tokenomics: Freebling Token (FBT)
-Users earn FBT by completing tasks. Use cases include:
-	🔓 Unlocking premium platform features
-	💎 Staking and holding rewards
-	🛠️ Future DeFi and utility integrations
+Our growth approach includes
+- <strong></strong>Influencer partnerships.
+- <strong></strong>Targeted social media ads.
+- <strong></strong>SEO and community marketing.
+- <strong></strong>Token incentives for user-driven virality.
 
-🤝 Business Integration
-Projects can partner with FreeBling to:
-	Offer exclusive reward pools or gated tasks
-	Reach a wider audience via our engaged community
-	Incentivize meaningful user actions through custom campaigns
+<strong>💸 Investment Use</strong>
+
+Incoming funding is allocated to
+- <strong></strong>Hiring a reliable lead blockchain developer / CTO.
+- <strong></strong>Building scalable smart contracts and staking features.
+- <strong></strong>Expanding functionality and UI responsiveness.
+- <strong></strong>Launching broader marketing campaigns.
+
+<strong>🪙 Tokenomics: Freebling Token (FBT)</strong>
+
+Users earn FBT by completing tasks. Use cases include
+- <strong>🔓</strong> Unlocking premium platform features.
+- <strong>💎</strong> Staking and holding rewards.
+- <strong>🛠️</strong> Future DeFi and utility integrations.
+
+<strong>🤝 Business Integration</strong>
+
+Projects can partner with FreeBling to
+- <strong></strong>Offer exclusive reward pools or gated tasks.
+- <strong></strong>Reach a wider audience via our engaged community.
+- <strong></strong>Incentivize meaningful user actions through custom campaigns.
 
 
 🚀 Getting Started (Dev Setup)
 
 	# Install dependencies
-		npm install
+	  npm install
 
 	# Start development server
-		npm run dev
+	  npm run dev
 
 ✅ Requirements
 
